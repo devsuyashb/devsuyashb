@@ -29,4 +29,4 @@
 
 
 
-![snake gif](https://github.com/devsuyashb/devsuyashb/blob/output/ocean.gif)
+![snake gif](https://github.com/devsuyashb/devsuyashb/blob/output/github-snake-dark.svg)
